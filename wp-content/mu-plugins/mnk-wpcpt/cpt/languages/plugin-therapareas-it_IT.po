@@ -1,0 +1,392 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CPT || Therapeutic Areas\n"
+"POT-Creation-Date: 2016-10-06 11:57+0200\n"
+"PO-Revision-Date: 2016-10-06 11:58+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: mnk-wpcpt-therapareas.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: mnk-wpcpt-academy.php:29 mnk-wpcpt-academy.php:40
+msgid "Academy"
+msgstr ""
+
+#: mnk-wpcpt-academy.php:30
+msgid "Lesson"
+msgstr ""
+
+#: mnk-wpcpt-academy.php:31
+msgctxt "plugin-therapareas"
+msgid "Add Lesson"
+msgstr ""
+
+#: mnk-wpcpt-academy.php:32 mnk-wpcpt-academy.php:34
+msgid "Add Lesson"
+msgstr ""
+
+#: mnk-wpcpt-academy.php:33
+msgid "Modify Lesson"
+msgstr ""
+
+#: mnk-wpcpt-academy.php:35
+msgid "View Lesson"
+msgstr ""
+
+#: mnk-wpcpt-academy.php:36
+msgid "Search Lesson"
+msgstr ""
+
+#: mnk-wpcpt-academy.php:37
+msgid "Lessons not found"
+msgstr ""
+
+#: mnk-wpcpt-academy.php:38
+msgid "Lesson not found in the trash"
+msgstr ""
+
+#: mnk-wpcpt-academy.php:39 mnk-wpcpt-therapareas.php:41
+msgid "Parent Singular Name:"
+msgstr ""
+
+#: mnk-wpcpt-academy.php:81
+msgctxt "Taxonomy plural name"
+msgid "Categories"
+msgstr ""
+
+#: mnk-wpcpt-academy.php:82
+msgctxt "Taxonomy singular name"
+msgid "Category"
+msgstr ""
+
+#: mnk-wpcpt-academy.php:83
+msgid "Search Category"
+msgstr ""
+
+#: mnk-wpcpt-academy.php:84
+msgid "Most Used Category"
+msgstr ""
+
+#: mnk-wpcpt-academy.php:85
+msgid "All Category"
+msgstr ""
+
+#: mnk-wpcpt-academy.php:86 mnk-wpcpt-academy.php:87 mnk-wpcpt-academy.php:91
+msgid "Category"
+msgstr ""
+
+#: mnk-wpcpt-academy.php:88
+msgid "Modify Category"
+msgstr ""
+
+#: mnk-wpcpt-academy.php:89
+msgid "Update Category"
+msgstr ""
+
+#: mnk-wpcpt-academy.php:90
+msgid "Add New Category"
+msgstr ""
+
+#: mnk-wpcpt-academy.php:92
+msgid "Add or remove Category"
+msgstr ""
+
+#: mnk-wpcpt-academy.php:93 mnk-wpcpt-therapareas.php:97
+#: mnk-wpcpt-therapareas.php:133
+msgid "Choose from most used text-domain"
+msgstr ""
+
+#: mnk-wpcpt-academy.php:94
+msgid "Categories"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:31
+msgid "Therapeutic Areas"
+msgstr "Aree Terapeutiche"
+
+#: mnk-wpcpt-therapareas.php:32
+msgid "Treatment"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:33
+msgctxt "plugin-therapareas"
+msgid "Add Treatment"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:34 mnk-wpcpt-therapareas.php:36
+msgid "Add Treatment"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:35
+msgid "Modify Treatment"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:37
+msgid "View Treatment"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:38
+msgid "Search Treatment"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:39
+msgid "Treatments not found"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:40
+msgid "Treatment not found in the trash"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:42
+msgid "Therapeutic"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:85
+msgctxt "Taxonomy plural name"
+msgid "Diseases"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:86
+msgctxt "Taxonomy singular name"
+msgid "Diseases"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:87
+msgid "Search Disease"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:88
+msgid "Most Used Disease"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:89
+msgid "All Diseases"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:90 mnk-wpcpt-therapareas.php:91
+#: mnk-wpcpt-therapareas.php:95
+msgid "Disease"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:92
+msgid "Modify Diseases"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:93
+msgid "Update Diseases"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:94
+msgid "Add New Disease"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:96
+msgid "Add or remove Disease"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:98
+msgid "Diseases"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:121
+msgctxt "Taxonomy plural name"
+msgid "HomeBox"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:122
+msgctxt "Taxonomy singular name"
+msgid "HomeBox"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:123
+msgid "Search HomeBox"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:124
+msgid "Most Used HomeBox"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:125
+msgid "All HomeBox"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:126 mnk-wpcpt-therapareas.php:127
+#: mnk-wpcpt-therapareas.php:131 mnk-wpcpt-therapareas.php:134
+msgid "HomeBox"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:128
+msgid "Modify HomeBox"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:129
+msgid "Update HomeBox"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:130
+msgid "Add New HomeBox"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:132
+msgid "Add or remove HomeBox"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:171
+msgid "In Product"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:180
+msgid " "
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:182
+msgid "In Product {#}"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:183
+msgid "Add Another Item"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:184
+msgid "Remove Item"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:197
+msgid "Product Number"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:204
+msgid "1"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:205
+msgid "2"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:206
+msgid "3"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:207
+msgid "4"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:208
+msgid "5"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:209
+msgid "6"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:210
+msgid "7"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:211
+msgid "8"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:212
+msgid "9"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:213
+msgid "10"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:218
+msgid "Product Name"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:225
+msgid "Product Intro Title"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:232
+msgid "Description"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:257
+msgid "Tabs - References + Download"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:273
+msgid "Activate Tabs"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:274
+msgid "field description (optional)"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:278
+msgid "Show"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:279
+msgid "Hide"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:314
+msgid "Manage here your file download area"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:316
+msgid "File {#}"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:317
+msgid "Add Another File"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:318
+msgid "Remove File"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:326
+msgid "Anchor Text"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:327
+msgid "Write here the text of the link"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:333
+msgid "Upload File"
+msgstr ""
+
+#: mnk-wpcpt-therapareas.php:334
+msgid "Add or Upload here your file"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "CPT || Therapeutic Areas"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https:"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Custom Post Type - in MU-PLUGINS"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Ronny Briolotti"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https:/"
+msgstr ""
